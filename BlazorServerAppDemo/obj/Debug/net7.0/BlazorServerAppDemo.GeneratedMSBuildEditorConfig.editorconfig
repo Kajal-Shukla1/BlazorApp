@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorServerAppDemo
+build_property.RootNamespace = BlazorServerAppDemo
+build_property.ProjectDir = D:\Visual Studio repo\BlazorServerAppDemo\BlazorServerAppDemo\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Visual Studio repo\BlazorServerAppDemo\BlazorServerAppDemo
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/Pages/ContactComponents/ContactComponent01.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdENvbXBvbmVudHNcQ29udGFjdENvbXBvbmVudDAxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/Pages/ContactComponents/ContactList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdENvbXBvbmVudHNcQ29udGFjdExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/Pages/ContactComponents/MyTextbox.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdENvbXBvbmVudHNcTXlUZXh0Ym94LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-w6da5ofww8
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jdgb7wmd3h
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ep8248nnnp
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Studio repo/BlazorServerAppDemo/BlazorServerAppDemo/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

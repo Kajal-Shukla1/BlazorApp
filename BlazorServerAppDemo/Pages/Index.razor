@@ -1,0 +1,16 @@
+﻿@page "/"
+
+@using BlazorServerAppDemo.Pages.ContactComponents
+
+<h1>Index Page</h1>
+<ContactList Contacts="contacts">
+    <ChildContent>
+        <br />
+        <span>Contacts are loading...</span>
+        <br />
+    </ChildContent>   
+</ContactList>
+
+<br/>
+ 
+<MyTextbox @attributes="@MyTextboxAttribute"></MyTextbox>
